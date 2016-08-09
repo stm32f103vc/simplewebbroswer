@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Simple Web Browser with FAB</string>
+    <string name="action_settings">Show/Hide FAB</string>
+    <string name="action_home">Home Page</string>
+</resources>
